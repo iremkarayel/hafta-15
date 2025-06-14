@@ -1,0 +1,10 @@
+Hafta 15:
+
+Python'da recursive fonksiyon ile faktoriyel hesaplama yapıldı.
+
+- Kullanıcıdan bir sayı alındı.
+- 1'den girilen sayıya kadar olan sayıların faktoriyelleri hesaplandı.
+- Sonuçlar bir sözlük (dict) içinde saklandı.
+- Hesaplanan faktoriyeller ekrana yazdırıldı.
+
+Kodun içinde girintileme hataları ve dict oluşturma hataları vardı, düzeltildi.

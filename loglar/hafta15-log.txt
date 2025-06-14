@@ -1,0 +1,9 @@
+Hafta 15:
+
+Recursive faktoriyel fonksiyonu yazıldı.
+
+Kullanıcıdan sayı alındı, 1'den sayıya kadar faktoriyeller dict'te saklandı.
+
+Kodda girintileme ve dict ataması düzeltildi.
+
+
